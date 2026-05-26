@@ -1,0 +1,32 @@
+=== Cambodia Development Simulation Statistics ===
+Period: 1990 - 2100
+
+INITIAL VALUES (1990):
+  Political Stability (P): 0.479
+  Social Development (S): 0.199
+  Economic Development (E): 0.387
+
+FINAL VALUES (2100):
+  Political Stability (P): 0.003
+  Social Development (S): 0.001
+  Economic Development (E): 0.003
+
+MAXIMUM VALUES:
+  Political Stability (P): 0.479
+  Social Development (S): 0.199
+  Economic Development (E): 0.387
+
+MINIMUM VALUES:
+  Political Stability (P): 0.000
+  Social Development (S): 0.000
+  Economic Development (E): 0.000
+
+AVERAGE ANNUAL GROWTH RATE (%):
+  Political Stability (P): -0.43%
+  Social Development (S): -0.18%
+  Economic Development (E): -0.35%
+
+SHOCK EVENTS:
+  Total shocks detected: 2
+  Shock 1 at year 2055.8
+  Shock 2 at year 2063.3
